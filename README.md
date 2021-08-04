@@ -12,5 +12,5 @@ A list of possible Unity ports for the PS Vita.
 | Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size        |
 |-----------------------------------------|------------------|--------------------|---------------------|----------------|-------------|
 | Cuphead                                 | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 3 GB      |
-| Angry Video Game Nerd II: ASSimilation  | 5.3.2            | 5.3.2.31412        | Portable            | Steam          | > 200 MB    |
+| Angry Video Game Nerd II: ASSimilation  | 5.3.2            | 5.3.2.31412        | Portable            | Steam          | > 145 MB    |
 | Hollow Knight                           | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 7 GB      |
