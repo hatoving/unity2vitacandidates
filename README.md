@@ -9,8 +9,8 @@ Note: Unity 5 games are the most compatible in terms of porting.
 
 ## List
 
-| Game                 | Unity Version    | Status              | Platform       |
-|----------------------|------------------|---------------------|----------------|
-| Cuphead              | Not checked yet  | Not checked yet     | Steam          |
-| AVGN 2: ASSimilation | 5.3.2            | Portable            | Steam          |
-| Hollow Knight        | Not checked yet  | Not checked yet     | Steam          |
+| Game                 | Unity Version    | Status              | Platform       | Size        |
+|----------------------|------------------|---------------------|----------------|-------------|
+| Cuphead              | Not checked yet  | Not checked yet     | Steam          | > 3 GB      |
+| AVGN 2: ASSimilation | 5.3.2            | Portable            | Steam          | > 200 MB    |
+| Hollow Knight        | Not checked yet  | Not checked yet     | Steam          | > 7 GB      |
