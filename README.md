@@ -7,7 +7,7 @@ Note: Unity 5 games are the most compatible in terms of porting.
 - Games must be requested in the Issues page
 - If you can't the game you're looking for, try CTRL+F. If it's not on the list, request it in Issues
 
-## List (https://hatoving.github.io/unity2vitacandidates/)
+## List
 
 | Game                 | Unity Version    | Status              | Platform       |
 |----------------------|------------------|---------------------|----------------|
