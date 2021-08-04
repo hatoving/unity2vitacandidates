@@ -1,5 +1,5 @@
 # Unity 2 Vita Candidates
-A list of possible Unity ports for the PS Vita.
+A list of possible Unity ports for the PS Vita. Some are not checked yet.
 ###### Note: Unity 5 games are the most compatible in terms of porting.
 
 ## Rules
@@ -9,8 +9,10 @@ A list of possible Unity ports for the PS Vita.
 
 ## List
 
-| Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size        |
-|-----------------------------------------|------------------|--------------------|---------------------|----------------|-------------|
-| Cuphead                                 | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 3 GB      |
-| Angry Video Game Nerd II: ASSimilation  | 5.3.2            | 5.3.2.31412        | Portable            | Steam          | > 145 MB    |
-| Hollow Knight                           | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 7 GB      |
+| Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size                 |
+|-----------------------------------------|------------------|--------------------|---------------------|----------------|----------------------|
+| Cuphead                                 | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 3 GB               |
+| Angry Video Game Nerd II: ASSimilation  | 5                | 5.3.2.31412        | Portable            | Steam          | > 145 MB             | 
+| Hollow Knight                           | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 7 GB               |
+| UNO                                     | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | Not checked yet      |
+| Bendy and the Ink Machine               | 2018             | Not checked yet    | Not checked yet     | Steam          | Not checked yet      |
