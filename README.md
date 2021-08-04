@@ -1,6 +1,6 @@
 # Unity 2 Vita Candidates
 A list of possible Unity ports for the PS Vita.
-Note: Unity 5 games are the most compatible in terms of porting.
+###### Note: Unity 5 games are the most compatible in terms of porting.
 
 ## Rules
 - Games must be made in legacy versions of Unity (pre-2020.x)
