@@ -15,4 +15,5 @@ A list of possible Unity ports for the PS Vita. Some are not checked yet.
 | Angry Video Game Nerd II: ASSimilation  | 5                | 5.3.2.31412        | Portable            | Steam          | > 145 MB             | 
 | Hollow Knight                           | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 7 GB               |
 | UNO                                     | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | Not checked yet      |
-| Bendy and the Ink Machine               | 2018             | Not checked yet    | Not checked yet     | Steam          | > 2 GB               |
+| Bendy and the Ink Machine               | 2018             | Not checked yet    | Might be portable   | Steam          | > 2 GB               |
+| Night in the Woods                      | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | Not checked yet      |
