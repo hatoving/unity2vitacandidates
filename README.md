@@ -1,5 +1,4 @@
-# Unity 2 Vita Candidates
-A list of possible Unity ports for the PS Vita. Some are not checked yet.
+Here is a list games that can possibly be ported onto the PS Vita. Some are not checked yet, some may not be portable.
 ###### Note: Unity 5 games are the most compatible in terms of porting.
 
 ## Rules
@@ -11,9 +10,8 @@ A list of possible Unity ports for the PS Vita. Some are not checked yet.
 
 | Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size                 |
 |-----------------------------------------|------------------|--------------------|---------------------|----------------|----------------------|
-| Cuphead                                 | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 3 GB               |
-| Angry Video Game Nerd II: ASSimilation  | 5                | 5.3.2.31412        | Portable            | Steam          | > 145 MB             | 
-| Hollow Knight                           | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | > 7 GB               |
-| UNO                                     | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | Not checked yet      |
-| Bendy and the Ink Machine               | 2018             | Not checked yet    | Might be portable   | Steam          | > 2 GB               |
-| Night in the Woods                      | Not checked yet  | Not checked yet    | Not checked yet     | Steam          | Not checked yet      |
+| Cuphead                                 | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 3 GB               |
+| Hollow Knight                           | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 7 GB               |
+| UNO                                     | Not checked yet  | Not checked yet    | Might be portable   | Steam          | Not checked yet      |
+| Bendy and the Ink Machine               | 2018.2/3         | Not checked yet    | Might be portable   | Steam          | > 2 GB               |
+| Night in the Woods                      | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 1 GB               |
