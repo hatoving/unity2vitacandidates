@@ -1,4 +1,4 @@
-Here is a list games that can possibly be ported onto the PS Vita. Some are not checked yet, some may not be portable.
+Here is a list games made in unity that can possibly be ported onto the PS Vita. Some are not checked yet, some may not be portable.
 ###### Note: Unity 5 games are the most compatible in terms of porting.
 
 ## Rules
@@ -12,7 +12,7 @@ Here is a list games that can possibly be ported onto the PS Vita. Some are not 
 
 | Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size                 |
 |-----------------------------------------|------------------|--------------------|---------------------|----------------|----------------------|
-| Cuphead                                 | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 3 GB               |
+| Cuphead                                 | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 3 GB               |
 | Hollow Knight                           | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 7 GB               |
 | UNO                                     | Not checked yet  | Not checked yet    | Might be portable   | Steam          | Not checked yet      |
 | Bendy and the Ink Machine               | 2018.2/3         | Not checked yet    | Might be portable   | Steam          | > 2 GB               |
