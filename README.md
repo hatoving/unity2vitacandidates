@@ -6,7 +6,7 @@ Here is a list games made in unity that can possibly be ported onto the PS Vita.
 - Games must be requested in the Issues page
 - If you can't the game you're looking for, try CTRL+F. If it's not on the list, request it in Issues
 
-###### Note: Games beyond the legacy versions **may** be portable, but require way more work and effort.
+###### Note: Games using beyond the legacy versions **may** be portable, but require way more work and effort. This also goes for games using beyond Unity 5.
 
 ## List
 
