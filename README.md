@@ -6,7 +6,7 @@ Here is a list games that can possibly be ported onto the PS Vita. Some are not 
 - Games must be requested in the Issues page
 - If you can't the game you're looking for, try CTRL+F. If it's not on the list, request it in Issues
 
-##### Note: Games beyond the legacy versions **may** be portable, but require way more work and effort.
+###### Note: Games beyond the legacy versions **may** be portable, but require way more work and effort.
 
 ## List
 
