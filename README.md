@@ -16,8 +16,8 @@ Here is a list games made in unity that can possibly be ported onto the PS Vita.
 | Cuphead                                 | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 3 GB               | Mono            |
 | Hollow Knight                           | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 8 GB               | Not checked yet |
 | UNO                                     | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 2 GB               | Not checked yet |
-| Bendy and the Ink Machine               | 2018.2/3         | Not checked yet    | Might be portable   | Steam          | > 1 GB               | Mono            |
-| Night in the Woods                      | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 7 GB               | Not checked yet |
+| Bendy and the Ink Machine               | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 1 GB               | Mono            |
+| Night in the Woods                      | 5.6.2            | Not checked yet    | Might be portable   | Steam          | > 5 GB               | Not checked yet |
 
 ## How to request a game
 Make sure to mention the game's name and Unity Version when requesting games. You can find out the Unity Version of a game by finding it's file version (not the game version the game tells you). You can do this by clicking on the game's executable file and then hovering over it for a few seconds. You should be able to find it's version there.
