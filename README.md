@@ -2,9 +2,11 @@ Here is a list games that can possibly be ported onto the PS Vita. Some are not 
 ###### Note: Unity 5 games are the most compatible in terms of porting.
 
 ## Rules
-- Games must be made in legacy versions of Unity (pre-2020.x). Games beyond the legacy versions **may** be portable, but require way more work and effort.
+- Games must be made in legacy versions of Unity (pre-2020.x).
 - Games must be requested in the Issues page
 - If you can't the game you're looking for, try CTRL+F. If it's not on the list, request it in Issues
+
+##### Note: Games beyond the legacy versions **may** be portable, but require way more work and effort.
 
 ## List
 
