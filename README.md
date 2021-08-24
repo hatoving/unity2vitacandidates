@@ -11,15 +11,16 @@ Here is a list games made in unity that can possibly be ported onto the PS Vita.
 
 ## List
 
-| Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size                 | Compiled in...  |
-|-----------------------------------------|------------------|--------------------|---------------------|----------------|----------------------|-----------------|
-| Cuphead                                 | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 3 GB               | Mono            |
-| Hollow Knight                           | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 8 GB               | Not checked yet |
-| UNO                                     | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 2 GB               | Not checked yet |
-| Bendy and the Ink Machine               | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 1 GB               | Mono            |
-| Night in the Woods                      | 5.6.2            | Not checked yet    | Might be portable   | Steam          | > 5 GB               | Not checked yet |
-| Dude, Stop                              | 2017.4.5         | 10.10.2018         | Might be portable   | Steam          | > 200 MB             | Mono            |
-| Just Shapes and Beats                   | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 1                  | Not checked yet |
+| Game                                    | Unity Version    | Game Version       | Status              | Platform       | Size                 | Compiled in...  | Price |
+|-----------------------------------------|------------------|--------------------|---------------------|----------------|----------------------|-----------------|-------|
+| Cuphead                                 | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 3 GB               | Mono            | Paid  |
+| Hollow Knight                           | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 8 GB               | Not checked yet | Paid  |
+| UNO                                     | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 2 GB               | Not checked yet | Paid  |
+| Bendy and the Ink Machine               | Maybe 2018.2/3   | Not checked yet    | Might be portable   | Steam          | > 1 GB               | Mono            | Paid  |
+| Night in the Woods                      | 5.6.2            | Not checked yet    | Might be portable   | Steam          | > 5 GB               | Not checked yet | Paid  |
+| Dude, Stop                              | 2017.4.5         | 10.10.2018         | Might be portable   | Steam          | > 200 MB             | Mono            | Paid  |
+| Just Shapes and Beats                   | Not checked yet  | Not checked yet    | Might be portable   | Steam          | > 1 GB               | Not checked yet | Paid  |
+| Emily is Away                           | Not checked yet  | Not checked yet    | Might be portable   | Steam          | Not checked yet      | Not checked yet | Free  |
 
 ## How to request a game
 Make sure to mention the game's name and Unity Version when requesting games. You can find out the Unity Version of a game by finding it's file version (not the game version the game tells you). You can do this by clicking on the game's executable file and then hovering over it for a few seconds. You should be able to find it's version there.
